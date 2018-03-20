@@ -24,3 +24,8 @@ inside out project version 102.0
 
 inside out project version 102.1
       -complete css for navigation
+
+  inside out project version 103.0
+      -fixed enlarging navigation on header shrink
+      -added loader to application with gears
+      
